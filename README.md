@@ -1,8 +1,8 @@
 # OOP-PYTHON
 
-NAMA: LENI
+NAMA: Hafizh
 
-NIM: 312410442
+NIM: 312410501
 
 ## Deskripsi
 Program ini merupakan program manajemen data mahasiswa yang dibangun menggunakan Python. Program ini memungkinkan pengguna untuk menambah, mengubah, menghapus, dan mencari data mahasiswa. Data mahasiswa disimpan dalam format JSON, sehingga mudah untuk dibaca dan dikelola.
@@ -73,7 +73,7 @@ File ini adalah file utama yang menjalankan aplikasi. Di dalamnya terdapat fungs
 
 - **Data Mahasiswa**:
     - Data mahasiswa akan disimpan dalam file `data_mahasiswa.json` di direktori proyek.
-    <img src="data_mahasiswa.png">
+
 
 
 ## Catatan
